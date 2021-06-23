@@ -1,3 +1,5 @@
+//tushar yadav 
+//date 23 Feb 2021
 #include<stdio.h>
 
 int main()
@@ -7,7 +9,3 @@ int main()
     //return 0;
     return 1;
 }
-
-//return 0;           program successful 
-//return 1;           abortive termintion       
-//return -1;          erronious termination     
